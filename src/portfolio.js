@@ -5,46 +5,70 @@ const header = {
 };
 const projects = [
   {
-    name: "Project 1",
+    name: "Link Shortener",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+      "Shortly is a powerful link shortner app that allows you to quickly and securely shorten your long URLs.",
+    stack: ["React", "TypeScript", "CSS"],
+    sourceCode: "https://github.com/Oluwasemilogo/link-shortner",
+    livePreview: "https://scissors-shortner.netlify.app/",
   },
   {
-    name: "Project 2",
+    name: "Comfort Zone",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+      "Comfort Zone is a web app that allows users to search for accommodation and Artisan services in thier preferred location.",
+    stack: ["React", "TypeScript", "Taiwlind CSS"],
+    sourceCode: "https://github.com/Horlawhumy-dev/propertycentre-frontend/",
+    livePreview: "https://propertycentre-testing.vercel.app/",
   },
   {
-    name: "Project 3",
+    name: "Github Portfolio",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+      "GitFolio is a dynamic GitHub portfolio app that showcases your GitHub Profile,Repositiories and details of the repositories.",
+    stack: ["CSS", "JavaScript", "Vue"],
+    sourceCode: "https://github.com/Oluwasemilogo/gitHub-portfolio",
+    livePreview:
+      "https://app.netlify.com/sites/github-portfolio-with-vue/overview",
   },
+  {
+    name: "E-commerce Gadgets store",
+    description:
+      "A simple e-commerce gadget store built with React and Redux that displys items for sale and allows users to add items to cart and checkout.",
+    stack: ["CSS", "TypeScript", "React", "Redux"],
+    sourceCode: "https://github.com/Oluwasemilogo/test-assessment-with-glade",
+    livePreview: "https://ecommerce-gadgetstore.netlify.app/",
+  },
+  {
+    name: "Countries App",
+    description:
+      "A simple Web app that displays information about countries around the world using the REST Countries API with color theme switcher.",
+    stack: ["React", "TypeScript", "CSS"],
+    sourceCode: "https://github.com/Oluwasemilogo/Countries",
+    livePreview: "https://countries-oluwasemilogo.netlify.app/",
+  },
+  {
+    name: "Netflix Clone",
+    description:
+      "A Netflix clone built with React and Redux that displays movies and series from the TMDB API.",
+    stack: ["React", "JavaScript", "Redux", "CSS"],
+    sourceCode: "https://github.com/Oluwasemilogo/netflixx",
+    livePreview: "https://my-netflixx-clone.netlify.app/",
+  },
+  
 ];
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
   "HTML",
   "CSS",
   "JavaScript",
   "TypeScript",
   "React",
   "Redux",
-  "SASS",
+  "Vue",
+  "Tailwind CSS",
+  "Git & GitHub",
+  "Firebase",
   "Material UI",
-  "Git",
-  "CI/CD",
-  "Jest",
-  "Enzyme",
+ 
 ];
 
 const contact = {
