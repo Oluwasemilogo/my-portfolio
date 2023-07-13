@@ -5,6 +5,7 @@ import About from "./components/About/About";
 import Projects from "./components/Projects/Project";
 import Skills from "./components/Skills/Skills";
 import Contact from "./components/Contact/Contact";
+import ScrollToTop from "./components/ScrollToTop/ScrollToTop";
 import "./App.css";
 
 
@@ -21,7 +22,7 @@ const App = () => {
         <Skills />
         <Contact />
       </main>
-   
+<ScrollToTop/>
     </div>
   );
 };
