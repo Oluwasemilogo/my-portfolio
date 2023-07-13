@@ -1,6 +1,5 @@
 const header = {
-
-  homepage: "https://rajshekhar26.github.io/cleanfolio",
+  homepage: "https://semilogo-bamidele.netlify.app/",
   title: "SB.",
 };
 const projects = [
