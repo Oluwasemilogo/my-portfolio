@@ -3,6 +3,7 @@ import { ThemeContext } from "./contexts/theme";
 import Header from "./components/Header/Header";
 import About from "./components/About/About";
 import Projects from "./components/Projects/Project";
+import Skills from "./components/Skills/Skills";
 import "./App.css";
 
 
@@ -14,7 +15,8 @@ const App = () => {
       <Header />
       <main>
         <About />
-   <Projects/>
+        <Projects />
+        <Skills />
       </main>
    
     </div>
