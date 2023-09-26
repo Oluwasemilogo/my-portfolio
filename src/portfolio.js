@@ -12,9 +12,9 @@ const projects = [
     livePreview: "https://scissors-shortner.netlify.app/",
   },
   {
-    name: "Comfort Zone",
+    name: "Property Centre",
     description:
-      "Comfort Zone is a web app that allows users to search for accommodation and Artisan services in thier preferred location.",
+      "Comfort Zone is a web app that allows users to search for accommodation and Artisan services in thier preferred location,and also link users with accomodation and service providers.",
     stack: ["React", "TypeScript", "Taiwlind CSS"],
     sourceCode: "https://github.com/Horlawhumy-dev/propertycentre-frontend/",
     livePreview: "https://propertycentre-testing.vercel.app/",
@@ -25,16 +25,15 @@ const projects = [
       "GitFolio is a dynamic GitHub portfolio app that showcases your GitHub Profile,Repositiories and details of the repositories.",
     stack: ["CSS", "JavaScript", "Vue"],
     sourceCode: "https://github.com/Oluwasemilogo/gitHub-portfolio",
-    livePreview:
-      "https://app.netlify.com/sites/github-portfolio-with-vue/overview",
+    livePreview: "https://app.netlify.com/sites/github-portfolio-with-vue",
   },
   {
-    name: "E-commerce Gadgets store",
+    name: "NoteBox",
     description:
-      "A simple e-commerce gadget store built with React and Redux that displys items for sale and allows users to add items to cart and checkout.",
-    stack: ["CSS", "TypeScript", "React", "Redux"],
-    sourceCode: "https://github.com/Oluwasemilogo/test-assessment-with-glade",
-    livePreview: "https://ecommerce-gadgetstore.netlify.app/",
+      "Notebox is a sleek and user-friendly note-taking web application that allows users to easily create, edit, and manage their notes. The app offers a range of features designed to enhance organization, retrieval, and customization of notes.",
+    stack: ["Tailwind CSS", "TypeScript", "React", "Redux"],
+    sourceCode: "https://github.com/Oluwasemilogo/notebox",
+    livePreview: "https://noteboxapp.netlify.app/",
   },
   {
     name: "Countries App",
@@ -45,14 +44,13 @@ const projects = [
     livePreview: "https://countries-oluwasemilogo.netlify.app/",
   },
   {
-    name: "Netflix Clone",
+    name: "art.gallery",
     description:
-      "A Netflix clone built with React and Redux that displays movies and series from the TMDB API.",
-    stack: ["React", "JavaScript", "Redux", "CSS"],
-    sourceCode: "https://github.com/Oluwasemilogo/netflixx",
-    livePreview: "https://my-netflixx-clone.netlify.app/",
+      "art.gallery  is a fully functional and responsive image gallery application that showcases a collection of images in a visually appealing way. It includes authentication, image display, loading states, search functionality, and a drag-and-drop feature for rearranging images within the gallery.",
+    stack: ["React", "JavaScript", "DND Kit", "Tailwind CSS"],
+    sourceCode: "https://github.com/Oluwasemilogo/image-gallery",
+    livePreview: "https://image-gallery-hng.netlify.app/",
   },
-  
 ];
 
 const skills = [
@@ -61,13 +59,14 @@ const skills = [
   "JavaScript",
   "TypeScript",
   "React",
+  "Next.js",
   "Redux",
   "Vue",
   "Tailwind CSS",
   "Git & GitHub",
   "Firebase",
   "Material UI",
- 
+  "Chakra UI",
 ];
 
 const contact = {
