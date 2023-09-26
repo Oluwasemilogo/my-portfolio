@@ -25,7 +25,7 @@ const projects = [
       "GitFolio is a dynamic GitHub portfolio app that showcases your GitHub Profile,Repositiories and details of the repositories.",
     stack: ["CSS", "JavaScript", "Vue"],
     sourceCode: "https://github.com/Oluwasemilogo/gitHub-portfolio",
-    livePreview: "https://app.netlify.com/sites/github-portfolio-with-vue",
+    livePreview: "https://github-portfolio-with-vue.netlify.app/",
   },
   {
     name: "NoteBox",
@@ -41,7 +41,7 @@ const projects = [
       "A simple Web app that displays information about countries around the world using the REST Countries API with color theme switcher.",
     stack: ["React", "TypeScript", "CSS"],
     sourceCode: "https://github.com/Oluwasemilogo/Countries",
-    livePreview: "https://countries-oluwasemilogo.netlify.app/",
+    livePreview: "https://countries-phi-nine.vercel.app/",
   },
   {
     name: "art.gallery",
