@@ -30,7 +30,7 @@ const projects = [
   {
     name: "NoteBox",
     description:
-      "Notebox is a sleek and user-friendly note-taking web application that allows users to easily create, edit, and manage their notes. The app offers a range of features designed to enhance organization, retrieval, and customization of notes.",
+      "NoteBox is a simple note taking app that allows you to add, edit, delete and search for notes.",
     stack: ["Tailwind CSS", "TypeScript", "React", "Redux"],
     sourceCode: "https://github.com/Oluwasemilogo/notebox",
     livePreview: "https://noteboxapp.netlify.app/",
@@ -46,7 +46,7 @@ const projects = [
   {
     name: "art.gallery",
     description:
-      "art.gallery  is a fully functional and responsive image gallery application that showcases a collection of images in a visually appealing way. It includes authentication, image display, loading states, search functionality, and a drag-and-drop feature for rearranging images within the gallery.",
+      "art.gallery is a responsive image gallery with authentication, drag-and-drop image rearrangement, and search capabilities.",
     stack: ["React", "JavaScript", "DND Kit", "Tailwind CSS"],
     sourceCode: "https://github.com/Oluwasemilogo/image-gallery",
     livePreview: "https://image-gallery-hng.netlify.app/",
